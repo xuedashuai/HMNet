@@ -9,8 +9,8 @@ The code was written in the following environment:
 ## Preparation for data:
 The raw data of Next Generation Simulation (NGSIM) is downloadable at https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm   
 - Put the raw data into `./raw`
-- Run preprocess_data.m to preprocess the data for HMNet  
+- Run `preprocess_data.m` to preprocess the data for HMNet  
 
 ## Using the code:
-To use the pretrained models at ./trained_models and evaluate the models performance run:  
-evaluate.py
+To use the pretrained models at `./trained_models` and evaluate the models performance run:  
+`evaluate.py`
