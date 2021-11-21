@@ -13,4 +13,6 @@ The raw data of Next Generation Simulation (NGSIM) is downloadable at https://op
 
 ## Using the code:
 To use the pretrained models at `./trained_models` and evaluate the models performance run:  
->>`evaluate.py`
+```
+evaluate.py
+```
