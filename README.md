@@ -1,5 +1,6 @@
-# HMNet
-Our paper: https://arxiv.org/abs/2111.13324
+# Hierarchical Motion Encoder-Decoder Network for Trajectory Forecasting (HMNet)
+Our paper: https://arxiv.org/abs/2111.13324  
+We will release the complete version later
 ## Setup：
 The code was written in the following environment:  
 - python 3.7.11  
