@@ -1,5 +1,5 @@
 # HMNet
-We will release the complete version later
+Our paper: https://arxiv.org/abs/2111.13324
 ## Setup：
 The code was written in the following environment:  
 - python 3.7.11  
